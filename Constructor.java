@@ -27,7 +27,6 @@ public class Constructor{
 //         Student() {
 //             System.out.println("It is Constructor");
 //         }
-
 //         void study() {
 //             System.out.println("It is Method");
 //         }
